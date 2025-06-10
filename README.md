@@ -36,15 +36,4 @@ To check if Python is installed:
 
 ```bash
 python --version
-How to Run
-Open your terminal or command prompt.
 
-Navigate to the folder where your Python file is saved.
-
-Run the script:
-
-bash
-Copy
-Edit
-python password_strength_checker.py
-Enter your password when asked.
